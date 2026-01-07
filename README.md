@@ -8,7 +8,7 @@ Users can upload documents and ask questions; the system retrieves relevant docu
 The solution is built as a **web application** using **Vite + React**, follows the assignment requirements, and is ready for deployment.
 
 ---
-
+## Live app : https://document-qa-rag-ten.vercel.app/
 ## Features
 - Upload documents in **PDF, DOCX, TXT, MD** formats
 - Extract and preprocess document text
