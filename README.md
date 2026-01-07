@@ -62,7 +62,7 @@ The solution is built as a **web application** using **Vite + React**, follows t
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/surabhi-chandrakant/document-qa-rag
 cd doc_rag_vite
 ```
 
@@ -112,5 +112,4 @@ Open: http://localhost:5173
 
 ---
 
-## Author
-AI Intern Assignment Submission
+
